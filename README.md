@@ -40,6 +40,8 @@ To deploy the app locally in production environment:
 
 `make prod`
 
+Master branch is deployed live to a live location.
+
 ## Built With
 
 * [React](https://reactjs.org/) - Used to build the user interface.

@@ -8,7 +8,7 @@ These instructions will get you a copy of the project up and running on your loc
 
 ### Prerequisites
 
-The app runs in docker container(s) so all you need is `docker` installed on your machine.
+The app runs in docker container(s) so all you need is `git` and `docker` installed on your machine.
 
 ## Running the tests
 

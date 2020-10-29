@@ -1,0 +1,7 @@
+services:
+    web:
+    channels:
+    messages:
+    sync:
+    users:
+    shared:

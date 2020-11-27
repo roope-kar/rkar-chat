@@ -1,5 +1,8 @@
 REPO_HOME = https://github.com/roope-kar
 
+cleanup:
+	rm -rf ./services/*
+
 install:
 	git clone $(REPO_HOME)/rkar-chat-channels ./services/channels
 	git clone $(REPO_HOME)/rkar-chat-users ./services/users
